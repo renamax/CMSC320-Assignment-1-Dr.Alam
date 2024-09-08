@@ -1,0 +1,2 @@
+Q1: Why might be consider using git?
+Answer: We might consider using git because it is a very helpful version control tool for working on a coding project with multiple collaborators in real time without their modifications interfering with each other. 
