@@ -1,2 +1,4 @@
-Q2: What field could data science be applied to? Give and Example and how it might help. 
-Answer: One field data science could be applied to is healthcare. For example, data science could be used to aggregate health records of COVID-19 patients and predict the spread of the disease. 
+Q1: Why might be consider using git?
+Answer: We might consider using git because it is a very helpful version control tool for working on a coding project with multiple collaborators in real time without their modifications interfering with each other. 
+Q2: What field could data science be applied to? Give and Example and how it might help.
+Answer: One field data science could be apploed to is healthcare. For example, data science could be used to aggregate health records of COVID-19 patients and predict the spread of the disease.
