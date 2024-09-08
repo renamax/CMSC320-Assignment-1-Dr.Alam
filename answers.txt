@@ -4,4 +4,5 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: One field data science could be applied to is healthcare. For example, data science could be used to aggregate health records of COVID-19 patients and predict the spread of the disease.
 Q3: What is the difference between merging and rebasing?
 Answer: Merging is a safe option that combines the histories of two branches into one, while rebasing rewrites the history by moving changes from one branch to another. 
-
+Q4: What skills do you hope to improve during this course?
+Answer: During this course I hope to improve my skills at data preprocessing and constructing models using Python. 
